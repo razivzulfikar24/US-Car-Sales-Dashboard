@@ -1,6 +1,7 @@
 # 🚗 US Car Sales Dashboard (2020-2023)
 
 Interactive dashboard analysis of US car sales performance in 2023, built using **Tableau** with layout design created in **Figma**.
+
 Dashboard Link : https://public.tableau.com/app/profile/muhammad.raziv.zulfikar/vizzes
 
 ## 📊 Overview
